@@ -1,0 +1,4 @@
+*.Rmd
+*.pyc
+.myenv
+.ipynb_checkpoints
